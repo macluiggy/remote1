@@ -20,3 +20,4 @@ print(filter())
 #palitojdjdjdjjdd
 #estamos en la rama palito y el contenido se sube a palo
 #jejejje
+#megea esto sin necesidad de especificar la rama, solo usando el shorthand -u
