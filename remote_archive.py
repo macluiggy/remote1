@@ -4,3 +4,4 @@
 #megea esto sin necesidad de especificar la rama, solo usando el shorthand -u
 #hola mergeame con @{u}
 #ahora mergeame con origin/palo
+#pusheame
