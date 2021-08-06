@@ -13,5 +13,4 @@ esPar(223)
 print('comentario')
 #cambio en la rama main
 #otro cambio en main
-#c5
-#c6
+#c5 main
