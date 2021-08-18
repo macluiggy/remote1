@@ -25,3 +25,5 @@ print(filter())
 
 #c3 rebase jajja
 #cambio --patch
+
+print(len('Capitalized, short (50 chars or less) summary'))
