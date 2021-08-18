@@ -11,8 +11,4 @@ esPar(223)
 #changes from john
 
 print('comentario')
-#cambio en la rama main
-#otro cambio en main
-#c5 main
-#changes from jessica
-#jdjjdjdjjddsgsgsgssswweeertefdwaddddddd
+#cambios que se han hecho en el remoto function functionName() { return 'jajaj' }
