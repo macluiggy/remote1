@@ -27,4 +27,3 @@ print(filter())
 #cambio --patch
 
 print(len('Capitalized, short (50 chars or less) summary'))
-d
