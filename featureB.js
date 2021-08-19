@@ -1,1 +1,1 @@
-//c1 featureB
+//c1 featureB, c2 featureB
