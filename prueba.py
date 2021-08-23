@@ -12,16 +12,6 @@ def filter():
 	return 2+2
 
 print(filter())
-#testing local
-
-#comment in main
-#jajaj
-#palo palito palo hehe
-#palitojdjdjdjjdd
-#estamos en la rama palito y el contenido se sube a palo
-#jejejje
-#cambio en la rama loc
-#otro cambio en la rama loc
 
 #c3 rebase jajja
 #cambio --patch
