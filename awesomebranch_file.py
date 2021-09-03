@@ -7,3 +7,5 @@
 # puede llevar a confuciones
 
 #mi compa
+#cambio en remote, este cambio primero sera mergeado o rebasado en develop
+#para luego hacer un mergeado fast-foward en main
